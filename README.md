@@ -1,7 +1,23 @@
-# React Crash Course: From Zero to Hero
+About me ◽️ 👨🏻‍💻 Front-End Engineer (9+ years) ◽️ 🎬 React.js Instructor on Udemy ◽️ 🎯 Mentor for Developers
+
+My courses
+
+◽️ [React.js AI Chatbot App with ChatGPT, Gemini AI and DeepSeek](https://www.udemy.com/course/reactjs-ai-chatbot-built-with-chatgpt-and-gemini-ai/?referralCode=C70BB647069AB126D136)
+
+◽️ [React Crash Course: From Zero to Hero](https://www.udemy.com/course/react-crash-course-from-zero-to-hero/?referralCode=FFEE417046C196879B4F&couponCode=CPSALEBRAND24)
+
+# Products List App
+
+This repository contains the source code for the "React Crash Course: From Zero to Hero" course.
+
+## "React Crash Course: From Zero to Hero" course
 
 Learn React from scratch and build your first application step by step in this course.
-This repository contains the source code for the "React Crash Course: From Zero to Hero" course.
+
+In this course, you’ll start with setting up a development environment, creating your first application in React and finishing up by managing component states!
+With this course, you will gain foundational knowledge of how to create React components, share data between components, style React components and much more.
+
+# How to use code examples from Github
 
 ## Download the code source
 
